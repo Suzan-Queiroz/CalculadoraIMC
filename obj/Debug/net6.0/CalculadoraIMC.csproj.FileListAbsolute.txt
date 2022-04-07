@@ -1,0 +1,15 @@
+C:\Users\luiz.queiroz\Suzan-LP3\SP3045111\CalculadoraIMC\bin\Debug\net6.0\CalculadoraIMC.exe
+C:\Users\luiz.queiroz\Suzan-LP3\SP3045111\CalculadoraIMC\bin\Debug\net6.0\CalculadoraIMC.deps.json
+C:\Users\luiz.queiroz\Suzan-LP3\SP3045111\CalculadoraIMC\bin\Debug\net6.0\CalculadoraIMC.runtimeconfig.json
+C:\Users\luiz.queiroz\Suzan-LP3\SP3045111\CalculadoraIMC\bin\Debug\net6.0\CalculadoraIMC.dll
+C:\Users\luiz.queiroz\Suzan-LP3\SP3045111\CalculadoraIMC\bin\Debug\net6.0\ref\CalculadoraIMC.dll
+C:\Users\luiz.queiroz\Suzan-LP3\SP3045111\CalculadoraIMC\bin\Debug\net6.0\CalculadoraIMC.pdb
+C:\Users\luiz.queiroz\Suzan-LP3\SP3045111\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.csproj.AssemblyReference.cache
+C:\Users\luiz.queiroz\Suzan-LP3\SP3045111\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz.queiroz\Suzan-LP3\SP3045111\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.AssemblyInfoInputs.cache
+C:\Users\luiz.queiroz\Suzan-LP3\SP3045111\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.AssemblyInfo.cs
+C:\Users\luiz.queiroz\Suzan-LP3\SP3045111\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.csproj.CoreCompileInputs.cache
+C:\Users\luiz.queiroz\Suzan-LP3\SP3045111\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.dll
+C:\Users\luiz.queiroz\Suzan-LP3\SP3045111\CalculadoraIMC\obj\Debug\net6.0\ref\CalculadoraIMC.dll
+C:\Users\luiz.queiroz\Suzan-LP3\SP3045111\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.pdb
+C:\Users\luiz.queiroz\Suzan-LP3\SP3045111\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.genruntimeconfig.cache
